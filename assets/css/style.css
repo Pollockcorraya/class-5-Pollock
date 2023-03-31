@@ -41,6 +41,9 @@ label {
     text-transform: uppercase;
     color: blue;
 }
+.logo {
+    margin-left: 10px;
+}
 .menu li {
     list-style: none;
     text-transform: uppercase;
@@ -62,6 +65,9 @@ label {
     text-align: center;
     text-transform: uppercase;
     font-size: 20px;text-decoration: underline;
+}
+.about-text {
+    margin-left: 20px;
 }
 
 /* Services CSS */
@@ -86,6 +92,7 @@ label {
     background-color: burlywood;
 }
 .portfolio-text {
+    margin-top: 20px;
     margin-left: 10px;
 }
 .portfolio-img {
@@ -151,7 +158,10 @@ label {
     background-color: darksalmon;
 }
 .blog-text {
-    text-align: center;
+    margin-top: 20px;
+    text-align: center;  
+}
+.blog-text p {
     font-size: 20px;
 }
 .blog-img {
@@ -159,6 +169,16 @@ label {
 }
 .blog-video {
     margin-left: 50px;
+}
+
+/* Thanks CSS */
+.thank-note {
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.thank-note p {
+    font-size: 20px;
+    color: green;
 }
 /* Footer CSS */
 footer p {
