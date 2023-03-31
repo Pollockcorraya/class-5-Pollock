@@ -137,6 +137,15 @@ label {
 #testimonial {
     background-color: darkgray;
 }
+.testi-text {
+    padding-top: 20px;
+    margin-left: 15px;
+}
+.testi-img img {
+    width: 500px;
+    height: 334px;
+    margin-left: 100px;
+}
 /* Blog CSS */
 #blog {
     background-color: darksalmon;
