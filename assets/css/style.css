@@ -79,7 +79,31 @@ label {
 #gallery{
     background-color: cadetblue;
 }
-
+.gallery-text {
+    margin-left: 20px;
+}
+.gallery-text h3 {
+    font-size: 25px;
+}
+.gallery-text p {
+    font-size: 18px;
+}
+.gallery-img {
+    margin-left: 25px;
+}
+.gallery-img img {
+    width: 430px;
+    height: 242px;
+}
+.feedback {
+    margin: 20px 0;
+}
+.info {
+    padding: 20px;
+}
+.info fieldset {
+    margin: 40px 0;
+}
 /* Testimonial CSS */
 #testimonial {
     background-color: darkgray;
