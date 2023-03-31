@@ -69,7 +69,18 @@ label {
     background-color: bisque;
     
 }
-
+.services-text {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.services-text p {
+    font-size: 20px;
+    text-decoration: underline;
+}
+.service-info {
+    padding-left: 20px;
+    margin: 35px 0;
+}
 /* Portfolio CSS */
 #portfolio {
     background-color: burlywood;
