@@ -74,6 +74,24 @@ label {
 #portfolio {
     background-color: burlywood;
 }
+.portfolio-text {
+    margin-left: 10px;
+}
+.portfolio-img {
+    text-align: center;
+}
+.portfolio-img img {
+    border: 5px solid blue;
+    border-radius: 15px;
+}
+
+.social-info h4  {
+    text-align: center;
+    font-size: 25px;
+}
+.social-info ol li {
+    margin: 0 0 5px 50px;
+}
 
 /* Gallery CSS */
 #gallery{
